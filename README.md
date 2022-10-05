@@ -1,14 +1,10 @@
 # jpa02-shuningliu
 
 
-  https://github.com/ucsb-cs156-f22/jpa02-shuningliu
-
-Repo: https://ucsb-cs156-f22/STARTER-jpa02
-
-  https://jpa02-shuningliu.herokuapp.com/
+Repo: https://github.com/ucsb-cs156-f22/jpa02-shuningliu
 
 
-On Heroku: https://cs156-f22-jpa02-cgaucho.herokuapp.com
+On Heroku: https://jpa02-shuningliu.herokuapp.com/
 
 
 # About this repo
